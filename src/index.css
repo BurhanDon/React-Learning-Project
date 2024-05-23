@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#app-p,
+a {
+  text-align: center;
+  text-decoration: none;
+  color: rgba(120, 113, 108, 0.5);
+}
+
+#app-p a:hover {
+  color: rgba(120, 113, 108, 1);
+}
